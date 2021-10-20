@@ -10,8 +10,8 @@
 
 ### Things we will be looking at!
 
-- [ ] How to set up your workspace
-- [ ] Creating folders and files
+- [X] How to set up your workspace
+- [X] Creating folders and files
 - [ ] Using Git/Github
 - [ ] Using teletype
 - [ ] Installing plugins/themes
